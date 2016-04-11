@@ -12,7 +12,7 @@ Checkout this repo, install dependancies with the following:
 Then  then start the gulp process with the following:
 
 ```
-> npm start
+	> npm start
 ```
 
 to run tests, enter in terminal:
